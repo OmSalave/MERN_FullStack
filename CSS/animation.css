@@ -1,0 +1,29 @@
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    text-align: center;
+  
+    animation-name:fontani  ;
+   animation-duration: 2s;
+   animation-timing-function: ease-out;
+   animation-delay: 0s;
+   animation-iteration-count: 1;
+   animation-direction: alternate;
+}
+
+
+@keyframes fontani {
+    from {
+        font-size:50px;
+         width: 300px;
+         height: 300px;
+    }
+    to {
+        font-size:100px;
+        width: 600px;
+        height:600px;
+        border-radius: 300px;
+    }
+}
+
