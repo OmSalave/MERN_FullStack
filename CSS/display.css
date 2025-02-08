@@ -1,0 +1,21 @@
+#outer{
+    height: 400px;
+    width: 400px;
+    border: 2px solid black;
+    font-size: 50px;
+    background-color: antiquewhite;
+
+
+}
+
+
+
+#inner{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    font-size: 0.5em;
+    padding: 1em;
+
+
+}
