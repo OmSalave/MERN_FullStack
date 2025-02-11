@@ -1,0 +1,42 @@
+* {
+    font-family: 'Courier New';
+}
+h3 {
+    color: purple;
+}
+#login {
+         background-color: white; 
+}
+.follow {
+    color: red;
+}
+.upvote {
+    background-color: green;
+    color:aliceblue
+}
+.post a {
+    color: purple;
+    background-color: yellow;
+    }
+
+nav ul li a {
+        color:pink;
+    }
+
+p + h3 {
+    text-decoration: underline;
+}
+
+.upvote + button {
+    background-color: blue;
+    color:yellow;
+}
+
+div > input {
+    background-color: darksalmon;
+    color: dark blue;
+}
+
+input[type="text"]{
+    color:rgb(214, 15, 15);
+}
